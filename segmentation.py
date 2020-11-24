@@ -1,0 +1,5 @@
+'''
+
+segmentation by using Reset
+
+'''
